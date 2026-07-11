@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KenCipherCraft&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KenCipherCraft&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenCipherCraft&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenCipherCraft&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
+</p>
